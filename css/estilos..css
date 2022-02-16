@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Open+Sans:ital,wght@0,400;1,600&family=PT+Serif:ital,wght@0,700;1,700&family=Roboto&display=swap');
+
+ /* font-family: 'Mochiy Pop P One', sans-serif;
+      font-family: 'Open Sans', sans-serif;
+      font-family: 'PT Serif', serif;
+      font-family: 'Roboto', sans-serif;*/
+*{
+    margin: 5px;
+    padding: 10px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+html{font-size: 87,5%;}
+
+header 
+ {  font-size: 1,5 rem;
+    margin: 1 rem;
+    background-image:url("../imags/drive-download-20220115T231652Z-001/nav.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position-x:right;
+    background-position-y:top;
+}
+nav ul li{
+    list-style: none
+}
+
+ul li a {
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+    font-size:150%;
+}
+
+.lista{
+    color: wheat;
+}
+.titulos {
+    text-align: center;
+    font-size:140%;
+    font-weight: bold;
+}
+
+.parrafo{
+    text-align: justify;
+}
+
+.Desafio1{
+    color:orange
+}
+
+ol li{
+    font-size: x-small;
+}
